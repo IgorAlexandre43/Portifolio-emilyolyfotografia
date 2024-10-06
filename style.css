@@ -144,4 +144,8 @@ body{
         width: auto;
     }
     
+    .apresentacao__conteudo__titulo {
+        font-size: 0.94rem;
+        font-family: var(--fonte-primaria);
+    }
 }
